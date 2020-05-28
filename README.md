@@ -1,7 +1,7 @@
 # fromDatabaseToJSON
 install Maven on your machine by clicking [here](https://maven.apache.org/download.cgi) for Windows
 
-for linux enter 
+to install maven for Linux system enter the following command on your terminal
 ```sh
 $ sudo apt install maven
 ```
