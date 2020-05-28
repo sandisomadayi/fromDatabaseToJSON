@@ -1,11 +1,10 @@
 # fromDatabaseToJSON
-install Maven on your machine [here](https://maven.apache.org/download.cgi) for Windows
+install Maven on your machine by clicking [here](https://maven.apache.org/download.cgi) for Windows
 
-or enter 
+for linux enter 
 ```sh
 $ sudo apt install maven
 ```
-on a linux system
 
 to compile source files enter on the project root folder
 ```sh
