@@ -1,0 +1,1 @@
+--INSERT INTO alarm (message, ip, alarm_group, impact, host_ID, reinstates, alarm_ID) values ("message", "10.1.4.89", "group S", "impacting", "0", "4", "1534");
